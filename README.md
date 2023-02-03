@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anubhavagnihotrii
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me ...
 - just send me a mail to anubahvagnihotri@gmail.com
 - or connect with me on linked-in www.linkedin.com/in/anubhavagnihotrii 
