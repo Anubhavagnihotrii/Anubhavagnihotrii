@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Anubhavagnihotrii
 - 👀 I’m interested in Web Designing
 - 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- just send me a mail to anubahvagnihotri@gmail.com
+- or connect with me on linked-in www.linkedin.com/in/anubhavagnihotrii 
 
 <!---
 Anubhavagnihotrii/Anubhavagnihotrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
