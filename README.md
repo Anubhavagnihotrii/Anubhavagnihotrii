@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **anubahvagnihotri@gmail.com**
 
