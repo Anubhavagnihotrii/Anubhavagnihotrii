@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🌱 I’m currently learning SpringBoot<br><br>- 📫 How to reach me anubahvagnihotri@gmail.com
+- 🌱 I’m currently learning SpringBoot<br><br>
+- 📫 How to reach me anubahvagnihotri@gmail.com
 
 
 ## 🌐 Socials:
